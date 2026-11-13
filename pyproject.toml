@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "strmatching2k-recovered"
+version = "0.1.0"
+description = "Python port of recovered StrMatching2k Access VBA matching routines"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["strmatching2k"]
+
+[tool.setuptools.package-data]
+strmatching2k = ["provenance.json"]

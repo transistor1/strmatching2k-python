@@ -1,0 +1,7 @@
+[
+  {"reference": "OMEPRA TEST", "candidate": "GENERIC OMEPRA TEST", "expected_6dp": "0.768889"},
+  {"reference": "LEFLUNOMIDE            20 MG", "candidate": "LEFLUNOMIDE", "expected_6dp": "0.734017"},
+  {"reference": "FUROSEMIDE             10 MG/M", "candidate": "FUROSEMIDE", "expected_6dp": "0.678803"},
+  {"reference": "ALLERGY STOP", "candidate": "ALLERGY-STOP", "expected_6dp": "0.949583"},
+  {"reference": "PAIN RELIEF", "candidate": "PAINT REMOVER", "expected_6dp": "0.745278"}
+]

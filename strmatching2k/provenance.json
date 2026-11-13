@@ -1,0 +1,27 @@
+{
+  "vba_sha256": {
+    "Recovered_AlgorithmSuite.bas": "2d265c6d6e97e878fe565bb2caab5d7b87f8ed1af4d3f937653bf09dc9c249aa",
+    "Recovered_DblMetaPhone.bas": "190fab2007d39345a45187a5092133f0440bada1bcc940d6463f734797daec8c",
+    "Recovered_Globals.bas": "6bab312feb68c65bcdfcc83b528c7b1ebb6f335d25787568b25504291ea474d5"
+  },
+  "procedures": [
+    "bigram",
+    "levdist",
+    "issimilar",
+    "dice",
+    "namesimilarity",
+    "lcs",
+    "doublemetaphone",
+    "metaphadd",
+    "isvowel",
+    "slavogermanic",
+    "isinstr",
+    "rapad",
+    "isinarry",
+    "minimum",
+    "maximum",
+    "strreplace",
+    "getlastchrpos",
+    "str2arry"
+  ]
+}
