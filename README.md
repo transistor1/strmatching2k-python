@@ -1,5 +1,7 @@
 # StrMatching2k Python port
 
+This port refers to the 2007 article [Fuzzy Matching Demo in Access](https://web.archive.org/web/20071014004910/http://www.codeguru.com/vb/gen/vb_database/microsoftaccess/article.php/c13137/), which is the source context for the recovered routines and behavior documented below.
+
 Python 3.10 or newer. No Access installation, VBA files, decompiler environment,
 network access or third-party runtime packages are required.
 
@@ -124,11 +126,6 @@ unrecovered database/import helpers. Regeneration from the repository is:
 ```sh
 python scripts/build_python_port.py
 ```
-
-This port refers to the 2007 article "Fuzzy Matching Demo in Access"
-(https://web.archive.org/web/20071014004910/http://www.codeguru.com/vb/gen/vb_database/microsoftaccess/article.php/c13137/),
-which is the source context for the recovered routines and behavior documented
-here.
 
 Reference material used when checking the compatibility layer:
 [Microsoft VBA Format documentation](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/format-function-visual-basic-for-applications),
